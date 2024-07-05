@@ -1,3 +1,6 @@
+![LinkedIn Graphic](https://github.com/vanessaviray/vanessaviray/assets/161077888/fb672b00-7b3d-4ee8-b606-61736b97c6fd)
+
+
 ## 👋 Hello!
 
 ### I'm Vanessa, a Software Developer in Irvine, CA!
