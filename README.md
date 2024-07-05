@@ -1,4 +1,4 @@
-## Hello! 👋
+## 👋 Hello!
 
 ### I'm Vanessa, a Software Developer in Irvine, CA!
 
@@ -7,10 +7,10 @@ Creating products and seeing people excited about what I've created drives my pa
 🔭 I’m currently working on buildiing a portfolio site to showcase my most recent work.  
 📫 How to reach me: 13virayvanessab@gmail.com
 
-## Let's Connect
+## 🔗 Let's Connect
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
