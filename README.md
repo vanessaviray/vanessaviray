@@ -7,7 +7,7 @@
 
 Creating products and seeing people excited about what I've created drives my passion for development! I specialize in building user-friendly applications with technologies like Typescript, React, Node.js, Express, PostgreSQL, CSS, Tailwind, and HTML. When I'm not coding I like to watch scary movies with my pug.
 
-🔭 I’m currently working on buildiing a portfolio site to showcase my most recent work.  
+🔭 I’m currently working on building a portfolio site to showcase my most recent work.  
 📫 How to reach me: 13virayvanessab@gmail.com
 
 ## 🔗 Let's Connect
